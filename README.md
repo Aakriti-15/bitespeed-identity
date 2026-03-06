@@ -1,10 +1,10 @@
 # BITESPEED IDENTITY RECONCILIATION
 
-a web service that identifies and links customer contacts across multiple purchases.
+a web service that identifies and links customer contacts across multiple purchases.(deployed on render)
 
-## Live Endpoint 
+## Live Endpoint - `https://bitespeed-identity-tiu5.onrender.com`
 
-**POST** ``
+**POST** `https://bitespeed-identity-tiu5.onrender.com/identify`
 
 ## TECH STACK
 - Node.js + express
